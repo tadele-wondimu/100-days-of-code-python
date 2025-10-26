@@ -7,3 +7,5 @@ My projects from Angela Yu's course.
 - BMI Calculator: [View Code](day-002-data-types-string/bmi_calculator.py)
 - Your Life in Weeks: [View Code](day-002-data-types-string/life_in_weeks.py)
 - Tip Calculator: [View Code](day-002-data-types-string/tip_calculator.py)
+## Day 003: Day 003 - Beginner - Control Flow and Logical Operators
+- BMI Calculator 2.0: [View Code](day-003-logical-operators/bmi_2.py)
