@@ -9,3 +9,5 @@ Projects from Angela Yu's course.
 - Tip Calculator: [View Code](day-002-data-types-string/tip_calculator.py)
 ## Day 003: Control Flow and Logical Operators
 - BMI Calculator 2.0: [View Code](day-003-logical-operators/bmi_2.py)
+- Leap Year Calculator: [View Code](day-003-logical-operators/leap_year.py)
+
